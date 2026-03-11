@@ -1,0 +1,1 @@
+git :from git bash how files are pushed. 
